@@ -1,5 +1,5 @@
 # DCA vs VA
-In the following experiment, two investment strategies will be compared: Dollar Cost Average (DCA) and Value Averaging (VA). Both strategies will be applied on the S&P500 index.
+In the following experiment, two investment strategies will be compared: Dollar Cost Average (DCA) and Value Averaging (VA). Both strategies will be applied on the S&P500 index and start from January 1, 2000 to today's date (January 27, 2024).
 
 ## Strategy
 In the DCA strategy, $100 will be invested monthly, regardless of the price of the S&P500. These investments will be maintained until the end.
